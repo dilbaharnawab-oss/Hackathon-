@@ -33,9 +33,7 @@ Lok Drishti is a simple web application that helps citizens report and track pub
 
 
 Start
-
-  ↓
-
+ ↓
 Open LOK DRISHTI Website
   ↓
 Login Page
